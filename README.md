@@ -1,5 +1,13 @@
 # 🐱 nya-a-cat
 
+---
+
+## 📖 推荐阅读
+
+推荐朋友的论文：[SORSA: Singular Values and Orthonormal Regularized Singular Vectors Adaptation of Large Language Models](https://github.com/Gunale0926/SORSA)。
+
+---
+
 ## 👤 关于我
 
 - **姓名：** nya-a-cat
