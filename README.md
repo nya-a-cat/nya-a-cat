@@ -1,58 +1,40 @@
 # 🐱 nya-a-cat
 
-## 👤 About Me
+## 👤 关于我
 
-- **Name:** nya-a-cat
-- **Pronouns:** she/her
-- **Occupation:** MTF
-- **University:** 江西财经大学
-- **Major:** 软件工程
-- **Degree:** 本科在读
+- **姓名：** nya-a-cat
+- **代词：** 她/她
+- **职业：** MTF
+- **大学：** 江西财经大学
+- **专业：** 软件工程
+- **学历：** 本科在读
 
-## 💼 Technical Skills
+## 💼 技术技能
 
-- **Primary Languages:** C++, C, Java
-- **Databases:** Experienced with various databases
-- **Interests:** 
-  - Machine Learning
-  - Machine Learning + Stock Trading
-  - Formal Verification
+- **主要语言：** C++, C, Java
+- **数据库：** 熟悉Navicat和MySQL
+- **兴趣领域：**
+  - 机器学习
+  - 机器学习+炒股
+  - 形式化证明
 
-## 🌟 Projects
-
-<!-- Add your project details here -->
-- [Project 1](#)
-- [Project 2](#)
-- [Project 3](#)
-
-## 📚 Education
+## 📚 教育背景
 
 - **江西财经大学**
-  - Bachelor's in Software Engineering
-  - Relevant Coursework: Data Structures, Algorithms, Database Management Systems, Machine Learning
+  - 软件工程学士
+  - 相关课程：数据结构、算法、数据库管理系统、机器学习
 
-## 🔗 Connect with Me
+## 🛠️ 工具和技术
 
-- **GitHub:** [nya-a-cat](https://github.com/nya-a-cat)
-- **LinkedIn:** [nya-a-cat](https://www.linkedin.com/in/nya-a-cat/)
-- **Email:** [nya-a-cat@example.com](mailto:nya-a-cat@example.com)
+- **语言：** C++, C, Java
+- **数据库：** Navicat, MySQL
+- **机器学习：** TensorFlow, PyTorch
+- **开发工具：** Git, Docker, IntelliJ IDEA
 
-## 📈 My Interests
+## 📄 许可证
 
-- Exploring the intersection of Machine Learning and Stock Trading
-- Advancing in Formal Verification techniques
-
-## 🛠️ Tools and Technologies
-
-- **Languages:** C++, C, Java
-- **Databases:** SQL, NoSQL
-- **Machine Learning:** TensorFlow, PyTorch
-- **Development Tools:** Git, Docker, IntelliJ IDEA
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+本项目采用MIT许可证 - 详见[LICENSE](LICENSE)文件。
 
 ---
 
-_Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate, feel free to reach out._
+_感谢访问我的GitHub个人资料！如果你有任何问题或想要合作，请随时联系我。_
