@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I'm neko</title>
+  <desc id="description">AI Systems and Research Engineering</desc>
+  <defs>
+    <clipPath id="typing-window">
+      <rect x="55" y="0" width="0" height="54">
+        <animate attributeName="width" from="0" to="650" dur="2.4s" calcMode="linear" repeatCount="1" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <text
+    x="380"
+    y="34"
+    text-anchor="middle"
+    clip-path="url(#typing-window)"
+    fill="#0078d7"
+    font-family="Cascadia Code, Consolas, ui-monospace, monospace"
+    font-size="18"
+    font-weight="700"
+  >Hi, I'm neko. AI Systems &amp; Research Engineering</text>
+  <rect x="642" y="17" width="2" height="21" rx="1" fill="#0078d7">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
