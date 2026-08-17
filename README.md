@@ -32,10 +32,10 @@
 
 #### 💻 Open Source
 
+- 🧭 **[sig-agent](https://github.com/nya-a-cat/sig-agent)** — a compact terminal coding agent with persistent sessions, tool approval, and provider switching.
 - 🛡️ **[EdgeFit](https://github.com/nya-a-cat/edgefit)** — static ONNX deployment-contract verification and CI gating.
 - 🔥 **[Ferrobox](https://github.com/nya-a-cat/ferrobox)** — a small, auditable Firecracker sandbox runtime for AI agents.
 - ☁️ **[GPU Container Cloud](https://github.com/nya-a-cat/gpu-rental-platform)** — GPU cloud control-plane foundations and a transparent simulated baseline.
-- λ **[CuTe Haskell port](https://github.com/nya-a-cat/CuTe/tree/haskell-port)** — integer layout algebra verified across multiple GHC versions.
 
 </td>
 </tr>
